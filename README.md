@@ -15,7 +15,7 @@ NLP Task Wizard is a Flask web application that allows users to perform various 
 1. Clone the repository to your local machine:
 
     ```
-    git clone https://github.com/yourusername/nlp-task-wizard.git
+    git clone https://github.com/ASHWIN492/nlp-task-wizard.git
     ```
 
 2. Navigate to the project directory:
