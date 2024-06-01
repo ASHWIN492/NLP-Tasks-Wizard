@@ -1,5 +1,5 @@
 transformers
 sentencepiece
 torch
-Streamlit
+flask
 tokenizers 
